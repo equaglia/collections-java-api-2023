@@ -6,7 +6,7 @@ import java.util.List;
 
 // Crie uma classe chamada "OrdenacaoNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
 public class OrdenacaoNumeros {
-    List<Integer> numeros;
+    private List<Integer> numeros;
 
     public OrdenacaoNumeros() {
         this.numeros = new ArrayList<>();
