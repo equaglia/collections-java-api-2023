@@ -4,3 +4,5 @@ Exercícios resolvidos por Edu Quaglia:
 * [Carrinho de Compras](/src/main/java/list/OperacoesBasicas/CarrinhoDeCompras.java)
 * [Soma de Números](src/main/java/list/Pesquisa/SomaNumeros.java)
 * [Ordenação de Números](src/main/java/list/Ordenacao/OrdenacaoNumeros.java)
+## Set
+* [Conjunto de Palavras Únicas](src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java)
