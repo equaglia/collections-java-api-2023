@@ -6,3 +6,4 @@ Exercícios resolvidos por Edu Quaglia:
 * [Ordenação de Números](src/main/java/list/Ordenacao/OrdenacaoNumeros.java)
 ## Set
 * [Conjunto de Palavras Únicas](src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java)
+* [Lista de Tarefas](src/main/java/set/Pesquisa/ListaTarefas.java)
