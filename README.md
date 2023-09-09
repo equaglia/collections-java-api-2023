@@ -11,3 +11,4 @@ Exercícios resolvidos por Edu Quaglia:
 ## Map
 * [Dicionario](src/main/java/map/OperacoesBasicas/Dicionario.java)
 * [Contagem de Palavras](src/main/java/map/Pesquisa/ContagemPalavras.java)
+* [Livraria Online](src/main/java/map/Ordenacao/LivrariaOnline.java)
