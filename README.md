@@ -10,3 +10,4 @@ Exercícios resolvidos por Edu Quaglia:
 * [Gerenciador de Alunos](src/main/java/set/Ordenacao/GerenciadorAlunos.java)
 ## Map
 * [Dicionario](src/main/java/map/OperacoesBasicas/Dicionario.java)
+* [Contagem de Palavras](src/main/java/map/Pesquisa/ContagemPalavras.java)
